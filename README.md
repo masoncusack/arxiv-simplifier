@@ -1,6 +1,6 @@
 # arXiv abstracts simplifier
 
-![Simplifier in action](.github/images/demo.png)
+![Simplifier in action](.github/images/example.png)
 
 Having trouble understanding even the abstract of recent papers? You poor, simple thing.
 
